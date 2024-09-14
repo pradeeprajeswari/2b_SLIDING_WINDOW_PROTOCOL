@@ -9,6 +9,9 @@
 6. Stop the Program
 ## PROGRAM
 ```
+Name: Pradeep E
+Reg No: 212223230149
+
 Client
 import socket
 s=socket.socket()
